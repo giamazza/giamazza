@@ -1,4 +1,4 @@
-Hello! My name is **Gia Mazza**.  
-I am a Computer Science student at Lafayette College in Easton, PA.   
-I have just completed my sophomore year and will be starting a Software Engineering internship in June!   
+## Hello! My name is Gia Mazza.  
+I am a Computer Science and Math student at Lafayette College in Easton, PA.   
+Currently, I am a Software Engineering intern at **Prudential**!   
 I can be reached at gia.mazza26@gmail.com.
